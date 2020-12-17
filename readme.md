@@ -16,4 +16,7 @@
 - number is prime or not
 - print prime in range
 - exit
-
+##### Practical 9 : Implement Queues.
+##### Practical 10 : Implement Stack.
+##### Practical 11 : Implement Trees.
+##### Practical 12 : Implement Water-Jug Problem.
